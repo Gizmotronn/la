@@ -1,10 +1,10 @@
 ---
-title: Big plants
+title: Poems
 order: 1
 seo:
   type: stackbit_page_meta
-  title: Big plants
-  description: This is the store page
+  title: Poems & Songs
+  description: Music
   extra:
     - name: 'og:type'
       value: website
