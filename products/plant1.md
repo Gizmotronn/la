@@ -3,7 +3,7 @@ id: '1'
 title: Emerald & Red
 description: >-
   A love song/poem originally published on my Poetizer Profile
-price: 'Free'
+price: 
 order: 1
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
