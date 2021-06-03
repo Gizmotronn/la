@@ -6,12 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
+    content: |
       # Developer Manuscripts
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Follow me to see what I'm up to as a developer
     actions:
       - type: action
         title: See all items
